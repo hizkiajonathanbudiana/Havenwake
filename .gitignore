@@ -38,3 +38,6 @@ sysinfo.txt
 *.aab
 *.app
 *.exe
+
+# Over 1 GB; GitHub rejects files above 100 MB unless stored with Git LFS
+Assets/HavenwakeTerrainAssets.unitypackage
