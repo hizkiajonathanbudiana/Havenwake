@@ -1,0 +1,112 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>A lowpoly hut created in Blender, textured in Photoshop using a roughness map and a metallic map.I hope you ll like it.\nFollow for more.</p>\nStreety",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/a57bb5cb-a8f5-4775-ab7e-c464f9506430/d05914ec-1854-4ab7-80fd-bb94e0aa9753.jpeg",
+		"publishedAt": "2025-05-04T07:46:15.035632Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/a2a4aefa-095e-487f-99e7-725cbcfda49a/5c2ce320-16e3-41d1-b172-7d4480560095.jpeg",
+		"title": "Hut",
+		"uid": "c3083593-1763-43a4-a298-083a5aa73d67",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-purqevlezvxpfp8alw2sc55r9jhw9d/profileImage/blob-500x500-cf882bba9997cc58a64ff67f1256eab4.jpg",
+			"sellerName": "Arshadarif",
+			"uid": "7519ec11-0053-4477-bd0c-356ce5bb6854"
+		},
+		"tags": [
+			{
+				"name": "Art",
+				"slug": "art",
+				"uid": "05552731-239b-4285-8713-d7051835f39e"
+			},
+			{
+				"name": "Blender",
+				"slug": "blender",
+				"uid": "141666cf-0a09-4718-85fa-f0d54884a525"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Household",
+				"slug": "household",
+				"uid": "9b3023be-0953-419c-a3a9-743bd3e951ac"
+			},
+			{
+				"name": "Building",
+				"slug": "building",
+				"uid": "9bf7fc25-831e-4476-83c6-d481ed7b7799"
+			},
+			{
+				"name": "Hut",
+				"slug": "hut",
+				"uid": "c2d13323-c1df-438e-a842-0c72482bd367"
+			}
+		],
+		"category":
+		{
+			"name": "Buildings & Architecture",
+			"path": "buildings-architecture",
+			"slug": "buildings-architecture",
+			"uid": "eec3bdd5-ba7a-45a8-b15d-67462b9630f6"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "5ecdd6ca-3b22-447d-a8af-40749c167875",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "a1ed35fa-102a-44df-8dfb-0b9ba3e096da",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "5ecdd6ca-3b22-447d-a8af-40749c167875",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
