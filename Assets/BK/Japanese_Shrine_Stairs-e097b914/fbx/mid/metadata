@@ -1,0 +1,179 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 5615 px/m</p><p><strong>Physical size:</strong> 3.21m x 6.47m x 2.71m</p><p><strong>Mesh type:</strong> Open mesh</p><p><strong>Maps:</strong> Basecolor Fuzz Displacement<em>(high tier only)</em> Gloss Normal Cavity AO Specular Roughness Bump</p> <p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/a1af5521-f7d0-428b-af36-66a0826f7c51/aaced8c3-116b-4532-ae0d-141dca2b30d4.jpeg",
+		"publishedAt": "2024-10-12T07:35:17.506378Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/78b20b3a-6fd7-4935-8ad6-5fccb289ca5a/1048ce73-a5d7-4bed-9327-fd1e3bf9f3a8.jpeg",
+		"title": "Japanese Shrine Stairs",
+		"uid": "e097b914-b158-4651-8c39-a0c62c066cc1",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Antique",
+				"slug": "antique",
+				"uid": "05c128da-c923-4f5d-b84b-fde612ae6bd4"
+			},
+			{
+				"name": "Weathered",
+				"slug": "weathered",
+				"uid": "1b898690-ea9c-4c08-9dcf-4f1c7582d1b5"
+			},
+			{
+				"name": "Lichen",
+				"slug": "lichen",
+				"uid": "3888dba2-3262-4a1a-aa7c-041fd5de4cce"
+			},
+			{
+				"name": "Mossy",
+				"slug": "mossy",
+				"uid": "4a5cbc12-00ad-42c8-b155-1b33654ad18d"
+			},
+			{
+				"name": "Shrine",
+				"slug": "shrine",
+				"uid": "4f58968b-8947-4523-838d-b40ce8701c5a"
+			},
+			{
+				"name": "Japanese",
+				"slug": "japanese",
+				"uid": "5f79760c-3d89-4fc7-a419-c96e3abdaf79"
+			},
+			{
+				"name": "Stair",
+				"slug": "stair",
+				"uid": "60ea01c9-da40-4645-80b3-b87934903ee3"
+			},
+			{
+				"name": "Japan",
+				"slug": "japan",
+				"uid": "6550e4ee-21c4-4a03-96db-316a29de2819"
+			},
+			{
+				"name": "Moss",
+				"slug": "moss",
+				"uid": "78cc3090-9528-420a-9047-2ebe749633d2"
+			},
+			{
+				"name": "Temple",
+				"slug": "temple",
+				"uid": "96297044-997c-4fe4-974c-78d602455aea"
+			},
+			{
+				"name": "Old",
+				"slug": "old",
+				"uid": "975b1521-db01-43ed-a939-c2c2da5027b1"
+			},
+			{
+				"name": "Worn",
+				"slug": "worn",
+				"uid": "98cd7d65-d9bb-4efc-9f13-2d3d6f29629d"
+			}
+		],
+		"category":
+		{
+			"name": "Components",
+			"path": "buildings-architecture/components",
+			"slug": "buildings-architecture--components",
+			"uid": "47619cca-ad4a-41ab-a35a-4b0131605209"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "ZBrush",
+					"groupName": "3D DCC Formats",
+					"code": "z-brush",
+					"icon": "zbrush",
+					"extensions": [
+						"zbp",
+						"ztl"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "523a155a-85a4-40a0-af6d-0c56b6ced9ec",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "mid",
+	"format": "fbx",
+	"fileId": "cb6bffba-8c3b-42fd-aa30-7037f0f01a36",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "523a155a-85a4-40a0-af6d-0c56b6ced9ec",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}
